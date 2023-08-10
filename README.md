@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Welcome to my profile!
+My nick name is Apricity, which means the warm sunlight in the winter.
+Those harsh things containing meaningful insight are so attractive to me.
 <!--
 **Japricity/Japricity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
