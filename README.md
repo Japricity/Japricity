@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio! This document outlines a comprehensive index of my projects, detailing the skills utilized, project timelines, and providing placeholders for source code and reports for each. 
 
-*Note 1: As a problem solver, I am continuously developing myself with a steadfast commitment to broadening my skills comprehensively. My philosophy is founded on the belief that ongoing learning and adapting are indispensable for sustained long-term development. I embrace challenges as opportunities to expand my horizons, refine my expertise, and contribute more effectively to my field. This portfolio is not just a showcase of my past achievements but a testament to my dedication towards evolving and flourishing in an ever-changing digital landscape.*
+*Note 1: As a problem solver, I am continuously developing myself with a steadfast commitment to broadening my skills comprehensively. My philosophy is founded on the belief that ongoing learning and adapting are indispensable for sustained long-term development. I embrace challenges as opportunities and treat feedback as candies to expand my horizons, refine my expertise, and contribute more effectively to my field*
 
 *Note 2: I am on my way to update concretely the documentation of each projects, some missing fields might be filled later. You can directly visit my source code of all project here: https://github.com/linhlbn*
 
